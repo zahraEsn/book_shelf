@@ -1,0 +1,216 @@
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T151628.500.txt
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T151625.200.json
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T132046.200.json
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T111155.200.json
+
+###
+
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T111148.500.txt
+
+###
+
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T033919.404.json
+
+###
+
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T033853.404.json
+
+###
+
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T033749.404.json
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T033745.200.json
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T033736.200.json
+
+###
+
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T033705.404.json
+
+###
+
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T033656.404.json
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T030713.200.json
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T020413.200.json
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T020356.200.json
+
+###
+
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T020336.500.txt
+
+###
+
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T020137.500.txt
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T020132.200.json
+
+###
+
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T020103.500.txt
+
+###
+
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T014428.500.txt
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T014418.200.json
+
+###
+
+GET http://127.0.0.1:8000/books
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T014412.500.txt
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T014327.200.json
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-01-29T014312.200.json
+
+###
+

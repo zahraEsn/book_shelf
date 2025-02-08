@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eee79ccc-3c38-42fe-9249-5ece472f256f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/library-manegment-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/customers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/reservations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas/reservation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sevices/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sevices/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sevices/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sevices/reservation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sevices/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sql/create_tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sql/insert_data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sql/queries.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FastAPI main" />
+        <option value="FastAPI test_main" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/Lib/site-packages/fastapi/middleware/__init__.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2s9sEg1lW7NQRF658ibzwzVqetA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "FastAPI.library-manegment-system.executor": "Run",
+    "HTTP Request.test_main | #1.executor": "Run",
+    "HTTP Request.test_main | #2.executor": "Run",
+    "Python tests.pytest in bin.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.database.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.schemas.executor": "Run",
+    "Python.uvicorn.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "database.data.extractors.current.export.id": "SQL Inserts",
+    "database.data.extractors.current.id": "SQL Inserts",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ZEsna/Desktop/tank-project/library-manegment-system",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ZEsna\Desktop\library-manegment-system\app" />
+      <recent name="C:\Users\ZEsna\Desktop\library-manegment-system\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.uvicorn">
+    <configuration name="test_main | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" executionIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test_main | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test_main.http" executionIdentifier="#2" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="uvicorn" type="PythonConfigurationType" factoryName="Python">
+      <module name="library-manegment-system" />
+      <option name="ENV_FILES" value="$PROJECT_DIR$/.env" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\ZEsna\Desktop\library-manegment-system\app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/uvicorn.exe" />
+      <option name="PARAMETERS" value="app.main:app --reload" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in bin" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="library-manegment-system" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.test_main | #1" />
+      <item itemvalue="HTTP Request.test_main | #2" />
+      <item itemvalue="Python.uvicorn" />
+      <item itemvalue="Python tests.pytest in bin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.test_main | #2" />
+        <item itemvalue="HTTP Request.test_main | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eee79ccc-3c38-42fe-9249-5ece472f256f" name="Changes" comment="" />
+      <created>1737879014289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737879014289</updated>
+      <workItem from="1737879015374" duration="14122000" />
+      <workItem from="1737898464420" duration="7296000" />
+      <workItem from="1737963788732" duration="7033000" />
+      <workItem from="1737974138273" duration="7422000" />
+      <workItem from="1737982760958" duration="9681000" />
+      <workItem from="1738057439509" duration="6193000" />
+      <workItem from="1738064116940" duration="2670000" />
+      <workItem from="1738066826777" duration="934000" />
+      <workItem from="1738067779367" duration="11000" />
+      <workItem from="1738067799407" duration="4973000" />
+      <workItem from="1738076093221" duration="1115000" />
+      <workItem from="1738077248291" duration="6111000" />
+      <workItem from="1738084084676" duration="930000" />
+      <workItem from="1738085213317" duration="201000" />
+      <workItem from="1738089868445" duration="1430000" />
+      <workItem from="1738091374960" duration="2529000" />
+      <workItem from="1738096602443" duration="4373000" />
+      <workItem from="1738102275728" duration="1186000" />
+      <workItem from="1738103487495" duration="5351000" />
+      <workItem from="1738109247176" duration="92000" />
+      <workItem from="1738109348261" duration="78000" />
+      <workItem from="1738136252631" duration="4887000" />
+      <workItem from="1738143036455" duration="4700000" />
+      <workItem from="1738148664464" duration="18129000" />
+      <workItem from="1738172799552" duration="397000" />
+      <workItem from="1738173208589" duration="1919000" />
+      <workItem from="1738175151588" duration="305000" />
+      <workItem from="1738175468721" duration="176000" />
+      <workItem from="1738176000329" duration="56000" />
+      <workItem from="1738176343229" duration="40000" />
+      <workItem from="1738177142447" duration="401000" />
+      <workItem from="1738177555811" duration="106000" />
+      <workItem from="1738177740648" duration="3352000" />
+      <workItem from="1738222394379" duration="8547000" />
+      <workItem from="1738230996439" duration="18650000" />
+      <workItem from="1738250759653" duration="4241000" />
+      <workItem from="1738263549182" duration="14657000" />
+      <workItem from="1738324157854" duration="49000" />
+      <workItem from="1738439968884" duration="32000" />
+      <workItem from="1738782557413" duration="552000" />
+      <workItem from="1738783128158" duration="1658000" />
+      <workItem from="1738784815383" duration="2600000" />
+      <workItem from="1738827489340" duration="13241000" />
+      <workItem from="1738843688996" duration="269000" />
+      <workItem from="1738952104137" duration="6641000" />
+      <workItem from="1738999929761" duration="20821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/library_manegment_system$pytest_in_bin.coverage" NAME="pytest in bin Coverage Results" MODIFIED="1738240555030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/library_manegment_system$main.coverage" NAME="main Coverage Results" MODIFIED="1738147982408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/library_manegment_system$schemas.coverage" NAME="schemas Coverage Results" MODIFIED="1738180515220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/library_manegment_system$database.coverage" NAME="database Coverage Results" MODIFIED="1737905765578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/library_manegment_system$uvicorn.coverage" NAME="uvicorn Coverage Results" MODIFIED="1738240534375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\ZEsna\Desktop\library-manegment-system\app" />
+    <SUITE FILE_PATH="coverage/library_manegment_system$library_manegment_system.coverage" NAME="library-manegment-system Coverage Results" MODIFIED="1737880783416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/library_manegment_system$app.coverage" NAME="app Coverage Results" MODIFIED="1738148004992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+  </component>
+</project>
