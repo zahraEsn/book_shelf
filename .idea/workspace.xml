@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eee79ccc-3c38-42fe-9249-5ece472f256f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/library-manegment-system.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/books.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/customers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/reservations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/schemas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/schemas/book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/schemas/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/schemas/reservation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/schemas/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sevices/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sevices/book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sevices/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sevices/reservation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sevices/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sql/create_tables.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sql/insert_data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/sql/queries.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="eee79ccc-3c38-42fe-9249-5ece472f256f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -235,7 +204,7 @@
       <workItem from="1738827489340" duration="13241000" />
       <workItem from="1738843688996" duration="269000" />
       <workItem from="1738952104137" duration="6641000" />
-      <workItem from="1738999929761" duration="20821000" />
+      <workItem from="1738999929761" duration="21270000" />
     </task>
     <servers />
   </component>
