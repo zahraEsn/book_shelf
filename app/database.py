@@ -26,3 +26,17 @@ def get_db_connection():
     finally:
         if conn:
             conn.close()
+
+def get_db_cursor():
+    """Provides a database cursor for executing queries."""
+    with get_db_connection() as conn:
+        cur = conn.cursor()
+        try:
+            yield cur
+            conn.commit()
+        except psycopg2.Error as e:
+            conn.rollback()
+            logger.error(f"Database error: {e}")
+            raise
+        finally:
+            cur.close()
